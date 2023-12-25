@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 70: expected 'comma or end of line' not found.
+    repeat 10:
+             ^
+
+Ren'Py Version: Ren'Py 7.6.3.23091805
+Tue Dec 19 22:34:46 2023
